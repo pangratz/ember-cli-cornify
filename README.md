@@ -1,6 +1,12 @@
-# Ember-cli-cornify
+# ember-cli-cornify
 
-This README outlines the details of collaborating on this Ember addon.
+Unicornify your Ember-CLI apps using latest web technology powered by http://www.cornify.com/
+
+![screenshot](http://i.imgur.com/VZHgCVh.png)
+
+## Add to you app
+
+    ember install ember-cli-cornify
 
 ## Installation
 
